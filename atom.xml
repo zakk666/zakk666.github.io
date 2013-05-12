@@ -4,7 +4,7 @@
   <title><![CDATA[something]]></title>
   <link href="http://zakk666.github.io/atom.xml" rel="self"/>
   <link href="http://zakk666.github.io/"/>
-  <updated>2013-05-11T16:47:09-07:00</updated>
+  <updated>2013-05-12T12:04:13-07:00</updated>
   <id>http://zakk666.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Some post]]></title>
+    <link href="http://zakk666.github.io/blog/2013/05/12/some-post/"/>
+    <updated>2013-05-12T11:12:00-07:00</updated>
+    <id>http://zakk666.github.io/blog/2013/05/12/some-post</id>
+    <content type="html"><![CDATA[<p>Let&rsquo;s right something. OK?</p>
+
+<p>fdsfdsafd</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;div&gt;
+</span><span class='line'>gdsaghdsahgdsjag
+</span><span class='line'>&lt;/div&gt;</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
 </feed>
