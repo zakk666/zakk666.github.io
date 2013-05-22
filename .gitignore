@@ -3,7 +3,8 @@
 .sass-cache
 .gist-cache
 .pygments-cache
-.swp
+*.swp
+*.swo
 _deploy
 public
 sass.old
