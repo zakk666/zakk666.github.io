@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[something]]></title>
+  <title><![CDATA[Blog]]></title>
   <link href="http://zakk666.github.io/atom.xml" rel="self"/>
   <link href="http://zakk666.github.io/"/>
-  <updated>2013-05-12T12:04:13-07:00</updated>
+  <updated>2013-05-21T23:52:24-07:00</updated>
   <id>http://zakk666.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Yang Liu]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -18,16 +18,50 @@
     <link href="http://zakk666.github.io/blog/2013/05/12/some-post/"/>
     <updated>2013-05-12T11:12:00-07:00</updated>
     <id>http://zakk666.github.io/blog/2013/05/12/some-post</id>
-    <content type="html"><![CDATA[<p>Let&rsquo;s right something. OK?</p>
+    <content type="html"><![CDATA[<h3>Let&rsquo;s right something. OK?</h3>
+
+<blockquote><p>some quote</p></blockquote>
+
+<p>hello <strong>world</strong></p>
+
+<ul>
+<li>list 1</li>
+<li>list 2</li>
+<li>list 3</li>
+</ul>
+
+
+<!-- more -->
+
+
+<p>this is an <a href="http://www.google.com">link</a>.</p>
 
 <p>fdsfdsafd</p>
 
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<div id="test">
+
+    <script>
+
+        document.getElementById("test").addEventListener('click', function(){
+            alert('fdsafdsafdsf');
+        }, false)
+
+    </script>
+
+    what????
+
+</div>
+
+
+<p>fdsafdhsafdsafjldsahfd</p>
+
+<figure class='code'><figcaption><span>some awesome html</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;div&gt;
-</span><span class='line'>gdsaghdsahgdsjag
-</span><span class='line'>&lt;/div&gt;</span></code></pre></td></tr></table></div></figure>
+</pre></td><td class='code'><pre><code class='html'><span class='line'><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;fhdjsaf&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>some some some 1!!!!!!
+</span><span class='line'><span class="nt">&lt;/div&gt;</span>
+</span></code></pre></td></tr></table></div></figure>
 
 ]]></content>
   </entry>
