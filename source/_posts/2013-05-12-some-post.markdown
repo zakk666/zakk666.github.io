@@ -6,14 +6,42 @@ comments: true
 categories: 
 ---
 
-Let's right something. OK?
+### Let's right something. OK?
 
+> some quote
+
+hello **world**
+
++	list 1
++ list 2
++ list 3
+
+<!-- more -->
+
+this is an [link](http://www.google.com).
 
 fdsfdsafd
 
+<div id="test">
 
-``` 
-<div>
-gdsaghdsahgdsjag
+	<script>
+
+		document.getElementById("test").addEventListener('click', function(){
+			alert('fdsafdsafdsf');
+		}, false)
+
+	</script>
+
+	what????
+
+</div>
+
+
+fdsafdhsafdsafjldsahfd
+
+
+``` html some awesome html
+<div class="fhdjsaf">
+some some some 1!!!!!!
 </div>
 ```
