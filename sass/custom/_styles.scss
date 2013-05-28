@@ -1,2 +1,45 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+body{
+	background: #fff;
+}
+
+.meta{
+	display: none;
+}
+
+/*.inner{*/
+	/*width: 900px;*/
+/*}*/
+
+.post{
+	.entry-content{
+		margin-left: 0;
+	}
+
+	h2.title{
+		margin-left: 0;
+		/*font-weight: 600;*/
+	}
+}
+
+article{
+	h2.title{
+		font-size: 2.2em;
+		text-align: center;
+		border-bottom: 1px solid #ddd;
+		padding-bottom: 30px;
+	}
+
+	.entry-content{
+		h2:before{
+			border-bottom: none;
+		}
+
+		h2{
+			border-bottom: none;
+		}
+
+	}
+}
